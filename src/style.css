@@ -1,0 +1,20 @@
+.d-flex input{
+    margin: 10px 7px;;
+}
+
+.d-flex button{
+    margin: 10px 7px;
+    padding: .3em 1.5em;
+}
+
+table .btnedit{
+    font-size: 25px;
+    color: yellow;
+    cursor: pointer;
+}
+
+table .btndelete{
+    font-size: 25px;
+    color: tomato;
+    cursor: pointer;
+}
